@@ -1,0 +1,5 @@
+opencv (4:4.0.1) testing; urgency=low
+
+  * 4.0.1 opencv librairies
+
+ -- git <git@yoctu.com>  Wed, 17 Jul 2019 19:32:00 -0400

@@ -1,0 +1,10 @@
+Source: libopencv4.0
+Section: utils
+Maintainer: Matthias <m.wustmann@redspher.com>
+Build-Depends: debhelper
+Version: 4.0.1
+Package: libopencv4.0
+Architecture: all
+Priority: optional
+Depends: libgtk2.0-0, libavcodec57, libavformat57, libswscale4, libtbb2, libjpeg62, libpng16-16, libtiff5, libtiff-tools, libdc1394-22, ghostscript
+Description: Shared Librairies for machine learning 
